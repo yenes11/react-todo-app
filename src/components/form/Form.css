@@ -23,11 +23,8 @@ form {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* height: 60vh; */
     width: 100%;
     border-radius: 15px;
-    /* overflow-y: auto;
-    padding: 10px; */
 }
 
 .error-message {
